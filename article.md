@@ -62,7 +62,16 @@ Staatsverschuldung der Schweiz, in Prozent des BIP
     "#F28502"
   ],
   "category": "datum.gender",
-  "size": "breakout"
+  "yAnnotations": [
+    {
+      "label": "Durchschnittlicher Wert",
+      "value": 81
+    },
+    {
+      "label": "Durchschnittlicher Wert",
+      "value": 78
+    }
+  ]
 }
 ```
 
@@ -155,6 +164,8 @@ year,gender,at_age,value
 
 
 <hr /></section>
+
+ 
 
 
 
